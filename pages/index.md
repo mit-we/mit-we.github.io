@@ -13,5 +13,4 @@ permalink: /
 
 # MIT Women in Economics
 
-![mit-logo]("/photos/mitlogo.svg")
 
