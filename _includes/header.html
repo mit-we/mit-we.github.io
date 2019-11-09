@@ -15,7 +15,7 @@
                     </a>
                 {% endif %}
                 <!-- email -->
-{#                 {% if site.email != ""%}
+                {% if site.email != ""%}
                     <a class="header_btn" href="mailto://{{ site.email }}">
                         <i class="fa fa-envelope-square">
                             {% if page.btn_text != false %}
@@ -23,7 +23,7 @@
                             {% endif %}
                         </i>
                     </a>
-                {% endif %} #}
+                {% endif %}
                 <!-- github -->
                 {% if site.github != "" %}
                     <a class="header_btn" href="https://github.com/{{ site.github }}">
@@ -45,7 +45,7 @@
                     </a>
                 {% endif %}
                 <!-- access token -->
-{#                 {% if page.encrypted_text == true %}
+                {% if page.encrypted_text == true %}
                     <a class="header_btn" id="acs_btn" onclick="apply_token()">
                         <i class="fa fa-key">
                             {% if page.btn_text != false %}
@@ -54,7 +54,7 @@
                         </i>
                     </a>
                     <textarea class="access_token" cols="8" id="acs_tkn" rows="1"></textarea>
-                {% endif %} #}
+                {% endif %}
             </li>
             <!-- right header -->
             <span
