@@ -13,7 +13,7 @@ permalink: /
 
 # MIT Women in Economics
 
-![Alt text](./photos/mitlogo.svg)
-<img src="./photos/mitlogo.svg">
-
+<p align="center">
+  <img width="460" height="300" src="./photos/mitlogo.svg">
+</p>
 
