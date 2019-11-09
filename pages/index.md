@@ -13,4 +13,6 @@ permalink: /
 
 # MIT Women in Economics
 
+![mit logo](https://github.com/mit-we/mit-we.github.io/blob/master/photos/mitlogo.svg)
+
 
