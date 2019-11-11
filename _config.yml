@@ -10,7 +10,8 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "rdix@mit.edu"
+
+email: "mitwomeninecon@gmail.com"
 github: "mit-we"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
