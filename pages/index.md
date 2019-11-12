@@ -17,3 +17,7 @@ permalink: /
   <img width="460" height="300" src="./photos/mitlogo.svg">
 </p>
 
+## Contact
+Email: `mitwomeninecon@gmail.com`
+
+
